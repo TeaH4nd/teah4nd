@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Alexandre Chamon 👋</h1>
+<h1 align="center">Hi there, I'm Alexandre Chamon</h1>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/achamon/" target="_blank">
@@ -15,48 +15,47 @@
   <tr>
     <td width="50%" valign="top">
 
-### 👨‍💻 About Me
+### About Me
 
-I am a Computer Science graduate from **UFRJ** and a **Software Developer** specialized in building secure, scalable, and automated systems. My expertise lies at the intersection of **Full-Stack Development** and **DevSecOps**, with a strong focus on cloud infrastructure and cybersecurity.
+I am a Back-end and Platform Engineer focused on cloud-native infrastructure, high-scale distributed systems, and observability. My expertise centers on building resilient back-end services and automated pipelines, driven by a strong background in DevSecOps and network security.
 
-I have a strong interest in automation, having developed projects ranging from automated email handlers to cryptocurrency trading bots. My academic and professional background includes experience in security incident response, pentesting, and full-stack development with Python and TypeScript. 
+Currently, I develop and operate telemetry backend services for over 3 million connected devices, utilizing Kubernetes, Kafka, and event-driven architectures. 
 
-* 🎓 B.Sc. in Computer Science from UFRJ (2025).
-* 🛡️ Former Director of the Security Incident Response Group (GRIS) at UFRJ.
-* 💻 Currently developing and maintaining systems using **TypeScript and Docker**.
-* ☁️ Experienced in Cloud Infrastructure, Containerization, and Cybersecurity.
+* B.Sc. in Computer Science from UFRJ (2025).
+* Former Director of the Security Incident Response Group (GRIS), specializing in pentesting and incident response.
+* Experienced in Cloud Infrastructure (AWS/GCP), Container Orchestration, and IaC.
 
     </td>
     <td width="50%" valign="top">
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 **Languages**
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
-**Frameworks & Libraries**
-<p>
-  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</p>
-
-**Tools & Platforms**
+**Infrastructure & Cloud**
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </p>
 
-### 📈 GitHub Stats
+**Data & Observability**
+<p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
+
+### GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TeaH4nd&show_icons=true&theme=radical)
 
